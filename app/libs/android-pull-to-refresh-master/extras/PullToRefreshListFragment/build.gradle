@@ -1,0 +1,24 @@
+apply plugin: 'android-library'
+
+dependencies {
+	compile project(':library')
+	compile 'com.android.support:support-v4:18.0.+'
+}
+
+archivesBaseName = 'extra-listfragment'
+
+android {
+	compileSdkVersion 23
+    //compileSdkVersion Integer.parseInt(ANDROID_COMPILE_SDK_VERSION)
+    buildToolsVersion "23.0.1" //ANDROID_BUILD_TOOLS_VERSION
+
+    
+    sourceSets {
+    	main {
+    		manifest.srcFile 'AndroidManifest.xml'
+    		java.srcDirs=['src']
+    		res.srcDirs=['res']
+    	}
+    }
+}
+

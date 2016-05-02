@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshViewPager\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshViewPager\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshViewPager\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshViewPager\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshViewPager\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_google_style.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\layout\\pull_to_refresh_header_google_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pulling_progress_layout.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\layout\\pulling_progress_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_progress_google_style.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\layout\\pull_to_refresh_progress_google_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\need_this_for_maven.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\bundles\\debug\\res\\layout\\need_this_for_maven.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    }
+]

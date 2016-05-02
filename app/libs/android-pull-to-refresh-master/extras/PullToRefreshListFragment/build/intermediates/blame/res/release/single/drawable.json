@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\progress_indeterminate_horizontal_holo.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\drawable\\progress_indeterminate_horizontal_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\progress_horizontal_holo_light_right.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\drawable\\progress_horizontal_holo_light_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\progress_horizontal_holo_light.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\drawable\\progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\jeongil\\Desktop\\TwitterTest2\\app\\libs\\android-pull-to-refresh-master\\extras\\PullToRefreshListFragment\\build\\intermediates\\exploded-aar\\TwitterTest2\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    }
+]

@@ -1,0 +1,10 @@
+include ':app', ':Android-PullToRefresh', ':library', ':PullToRefreshListFragment', ':PullToRefreshViewPager', 'PullToRefreshListFragment', 'PullToRefreshViewPager'
+
+//project(':Android-PullToRefresh').projectDir = new File('app/libs/library')
+
+project(':library').projectDir = new File('app/libs/android-pull-to-refresh-master/library')
+project(':PullToRefreshListFragment').projectDir = new File('app/libs/android-pull-to-refresh-master/extras/PullToRefreshListFragment')
+project(':PullToRefreshViewPager').projectDir = new File('app/libs/android-pull-to-refresh-master/extras/PullToRefreshViewPager')
+
+//project('PullToRefreshListFragment').projectDir = new File('app/libs/android-pull-to-refresh-master/extras/PullToRefreshListFragment')
+//project('PullToRefreshViewPager').projectDir = new File('app/libs/android-pull-to-refresh-master/extras/PullToRefreshViewPager')
